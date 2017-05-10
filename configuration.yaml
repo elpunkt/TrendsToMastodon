@@ -1,0 +1,13 @@
+TwitterAPI:
+  ConsumerKey: 
+  ConsumerSecret:  
+  AccessToken:  
+  AccessSecret:  
+
+MastodonAPI:
+  MastodonMail: 
+  MastodonPW: 
+  ClientID: 
+  ClientSecret: 
+  AccessToken: 
+  
